@@ -1,0 +1,20 @@
+{
+  "name": "i222488-task",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirzaMukarram0/Github-Actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirzaMukarram0/Github-Actions/issues"
+  },
+  "homepage": "https://github.com/MirzaMukarram0/Github-Actions#readme",
+  "description": ""
+}
